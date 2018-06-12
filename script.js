@@ -1,1 +1,2 @@
-alert("Superman!")
+var hero = "Superman!"
+alert(hero)
